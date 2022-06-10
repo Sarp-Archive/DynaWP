@@ -6,7 +6,8 @@ DynaWP is a JavaScript wallpaper library that adds effect like Parallax.js engin
 
 1) Import the code:
 ```html
-<script src="DynaWP.js"></script>
+<script src="DynaWP.js"></script> <!-- Preferred: Will work offline and much faster --->
+<script src="https://github.com/Segilmez06/DynaWP/releases/latest/download/DynaWP.js"></script>
 ```
 
 2) Create a `div` and set attributes:
