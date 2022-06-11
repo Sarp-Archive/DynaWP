@@ -1,7 +1,7 @@
 # DynaWP
 
 DynaWP is a JavaScript wallpaper library that adds effect like Parallax.js engine.
-[Live demo](https://segilmez06.github.io/DynaWP/)
+[Live demo](https://segilmez06.github.io/DynaWP/index.html)
 
 ## Installation
 
