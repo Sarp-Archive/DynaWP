@@ -22,4 +22,5 @@ DynaWP is a JavaScript wallpaper library that adds effect like Parallax.js engin
 * `effectscale`: Time to react the mouse move in seconds. For example, `0.25` means it'll take 0.25 second to complete requested animation.
 * `reactscale`: Moving value of image in screen size's percentage. For example, `1` means it'll set image size as 102% and change image position between `-1vh`/`-1vw` and `1vh`/`1vw`.
 * `effectimg`: Background image URL for element.
+
 Note: You must set all `id`, `effectscale`, `reactscale`, `effectimg` attributes to work properly.
